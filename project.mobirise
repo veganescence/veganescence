@@ -105,7 +105,8 @@
     },
     "imageResize": true,
     "lazyType": "nothing",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "mbrsiteDomain": "lksumoacxv"
   },
   "pages": {
     "index.html": {
