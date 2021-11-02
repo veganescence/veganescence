@@ -104,7 +104,8 @@
       "text": "By continuing you agree to our <a href='privacy.html'>Privacy Policy</a>."
     },
     "imageResize": true,
-    "lazyType": "nothing"
+    "lazyType": "nothing",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
